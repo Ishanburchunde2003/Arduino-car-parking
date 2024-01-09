@@ -138,3 +138,12 @@ if(digitalRead(ir_car4) == 0){S4=1;}
 if(digitalRead(ir_car5) == 0){S5=1;}
 if(digitalRead(ir_car6) == 0){S6=1;}  
 }
+
+
+# FUTURE SCOPE
+
+a
+a) Renewable energy sources: Explore the use of renewable energy sources, such as solar or wind power, to power the parking system. This can help reduce the carbon footprint of the parking lot and make it more sustainable.
+
+b) Integration with public transportation: Integrate the parking system with public transportation systems, such as bus or train stations, to create a more seamless transportation experience. This can help reduce traffic congestion and improve the overall transportation infrastructure.
+
